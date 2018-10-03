@@ -1,0 +1,12 @@
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\MyXLLAddin1.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\MyXLLAddin1.pdb
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\Office.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\stdole.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\obj\Debug\MyXLLAddin1.dll
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\obj\Debug\MyXLLAddin1.pdb
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\obj\Debug\MyXLLAddin1.XLLModule.resources
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\obj\Debug\MyXLLAddin1.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\bin\Debug\MyXLLAddin1.tlb
+C:\Users\kevin\documents\visual studio 2017\Projects\MyXLLAddin1\MyXLLAddin1\obj\Debug\MyXLLAddin1.csprojResolveAssemblyReference.cache

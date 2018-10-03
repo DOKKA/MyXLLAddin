@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="MyXLLAddin1, PublicKeyToken=5ab725b73496fae4" xllClass="MyXLLAddin1.XLLModule" imageRuntimeVersion="v4.0.30319" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="user" minOfficeVersionSupported="11" />
+</configuration>
